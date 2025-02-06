@@ -19,6 +19,8 @@ GitHub project ideas list Includes Source Code, PPT, Synopsis, Report, Documents
 
 9	GIF Malware Detection Project	https://youtu.be/3JQ9uPETJCQ?si=5Jq5Bd1C3x_Bup6r
 
+10 Steganography Project Cryptography Project	https://youtu.be/FQdPvUdWco8?si=aQCpsBIH7Wz9TGV1
+
 Project include:
 Synopsis
 
